@@ -12,7 +12,6 @@ export default function MainLayout({ children }: MainLayoutProps) {
           <div className="flex justify-between h-16">
             <div className="flex">
               <div className="flex-shrink-0 flex items-center">
-                {/* Add your logo here */}
                 <span className="text-2xl font-bold text-[#1fa093]">LivinLocal</span>
               </div>
               <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
